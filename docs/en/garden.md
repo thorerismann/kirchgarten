@@ -9,18 +9,10 @@ __Planted 2025__
 - Mint started in the spice garden.
 - Consolidated lemon balm (*Melissa officinalis*) in the spice garden.
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/squash_start.png" width="300"><br>
-      <small>Squash – May 30, 2025</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/bean_start.png" width="300"><br>
-      <small>Beans – May 30, 2025</small>
-    </td>
-  </tr>
-</table>
+| ![](../assets/squash_start.png) | ![](../assets/bean_start.png) |
+|:-------------------------------:|:------------------------------:|
+> Squash and Bean, 30 Mai, 2025
+
 
 __To Do For 2025__
 

@@ -9,18 +9,10 @@ __Plantations 2025__
 - Menthe plantée dans le jardin d’herbes.
 - Mélisse (*Melissa officinalis*) consolidée dans le jardin d’herbes.
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/squash_start.png" width="300"><br>
-      <small>Courges – 30 mai 2025</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/bean_start.png" width="300"><br>
-      <small>Haricots – 30 mai 2025</small>
-    </td>
-  </tr>
-</table>
+| ![](../assets/squash_start.png) | ![](../assets/bean_start.png) |
+|:-------------------------------:|:------------------------------:|
+> Courge et haricot 30 Mai, 2025
+
 
 __À faire en 2025__
 

@@ -9,18 +9,9 @@ __Bepflanzung 2025__
 - Minze im Kräutergarten angesät.
 - Zitronenmelisse (*Melissa officinalis*) im Kräuterbeet stabilisiert.
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/squash_start.png" width="300"><br>
-      <small>Kürbisse – 30. Mai 2025</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/bean_start.png" width="300"><br>
-      <small>Bohnen – 30. Mai 2025</small>
-    </td>
-  </tr>
-</table>
+| ![](../assets/squash_start.png) | ![](../assets/bean_start.png) |
+|:-------------------------------:|:------------------------------:|
+> Kürbis und Bohne 30 Mai, 2025
 
 __To-Do-Liste für 2025__
 
