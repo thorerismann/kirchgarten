@@ -11,6 +11,7 @@ __Planted 2025__
 
 | ![](../assets/squash_start.png) | ![](../assets/bean_start.png) |
 |:-------------------------------:|:------------------------------:|
+
 > Squash and Bean, 30 Mai, 2025
 
 

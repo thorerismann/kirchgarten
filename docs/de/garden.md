@@ -11,6 +11,7 @@ __Bepflanzung 2025__
 
 | ![](../assets/squash_start.png) | ![](../assets/bean_start.png) |
 |:-------------------------------:|:------------------------------:|
+
 > Kürbis und Bohne 30 Mai, 2025
 
 __To-Do-Liste für 2025__
