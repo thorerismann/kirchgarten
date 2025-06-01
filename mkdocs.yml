@@ -1,0 +1,21 @@
+site_name: Kirch Garten
+
+theme:
+  name: material
+
+nav:
+  - English:
+      - Home: en/index.md
+      - Garden: en/garden.md
+      - Meadow: en/meadow.md
+      - Science: en/technical.md
+  - Français:
+      - Accueil: fr/index.md
+      - Potager: fr/garden.md
+      - Prairie: fr/meadow.md
+      - Science: fr/technical.md
+  - Deutsch:
+      - Startseite: de/index.md
+      - Gemüsegarten: de/garden.md
+      - Blumenwiese: de/meadow.md
+      - Wissenschaft: de/technical.md
