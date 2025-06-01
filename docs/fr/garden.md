@@ -10,9 +10,10 @@ __Plantations 2025__
 - Mélisse (*Melissa officinalis*) consolidée dans le jardin d’herbes.
 
 | ![](../assets/squash_start.png) | ![](../assets/bean_start.png) |
-|:-------------------------------:|:------------------------------:|
+|:-------------------------------:|:-----------------------------:|
+|   ![](../assets/melon_ss.png)   |   ![](../assets/row_ss.png)   |
 
-> Courge et haricot 30 Mai, 2025
+> Courge, haricot et melon le 30 Mai, 2025
 
 
 __À faire en 2025__

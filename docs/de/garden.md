@@ -10,9 +10,10 @@ __Bepflanzung 2025__
 - Zitronenmelisse (*Melissa officinalis*) im Kräuterbeet stabilisiert.
 
 | ![](../assets/squash_start.png) | ![](../assets/bean_start.png) |
-|:-------------------------------:|:------------------------------:|
+|:-------------------------------:|:-----------------------------:|
+|   ![](../assets/melon_ss.png)   |   ![](../assets/row_ss.png)   |
 
-> Kürbis und Bohne 30 Mai, 2025
+> Kürbis, Bohne und Melone der 30 Mai, 2025
 
 __To-Do-Liste für 2025__
 

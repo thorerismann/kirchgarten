@@ -10,9 +10,10 @@ __Planted 2025__
 - Consolidated lemon balm (*Melissa officinalis*) in the spice garden.
 
 | ![](../assets/squash_start.png) | ![](../assets/bean_start.png) |
-|:-------------------------------:|:------------------------------:|
+|:-------------------------------:|:-----------------------------:|
+|   ![](../assets/melon_ss.png)   |   ![](../assets/row_ss.png)   |
 
-> Squash and Bean, 30 Mai, 2025
+> Squash, bean and melon on 30 May 2025
 
 
 __To Do For 2025__

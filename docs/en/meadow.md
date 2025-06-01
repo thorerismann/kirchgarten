@@ -1,27 +1,10 @@
 The roughly 400m² meadow on the grounds of the Bruder Klaus Church is a beautiful patch of biodiversity and nature in the heart of the Madretsch neighborhood. While it retains some of its beautiful flowers (see below), it is starting to overgrow with grasses and shrubs and lose some of its wildflower meadow qualities. The goal is to restore the meadow, improve it beyond its original state, and leave an easy to maintain wildflower meadow that can serve educational and biodiversity purposes for the neighborhood.
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/achillea_millefolium.jpg" width="300"><br>
-      <small>Achillea millefolium</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/dianthus_carthusiana.jpg" width="300"><br>
-      <small>Dianthus carthusiana</small>
-    </td>
-  </tr>
 
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/silen_nutans.jpg" width="300"><br>
-      <small>Silene nutans</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/centaurea_jacea_small.jpg" width="300"><br>
-      <small>Centaurea jacea</small>
-    </td>
-  </tr>
-</table>
+| ![](../assets/achillea_millefolium.jpg) | ![](../assets/dianthus_carthusiana.jpg) |
+|:----------------:|:---------------------------------------:|
+| ![](../assets/centaurea_jacea_small.jpg) |     ![](../assets/silen_nutans.jpg)     |
+
+> Some flowers, 30 Mai 2025
 
 __Goal 1: Regeneration__
 The first step is to regenerate the meadow after a few years of being left to its own devices.

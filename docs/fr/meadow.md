@@ -1,27 +1,10 @@
 La prairie d’environ 400 m² située sur le terrain de l’église Bruder Klaus est un bel îlot de biodiversité et de nature au cœur du quartier de Madretsch. Bien que certaines fleurs soient encore présentes (voir ci-dessous), la prairie est progressivement envahie par les herbes hautes et les arbustes, perdant peu à peu son caractère de prairie fleurie. L’objectif est de restaurer cet espace, de l’améliorer par rapport à son état d’origine, et de créer une prairie facile à entretenir, au service de l’éducation et de la biodiversité locale.
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/achillea_millefolium.jpg" width="300"><br>
-      <small>Achillea millefolium</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/dianthus_carthusiana.jpg" width="300"><br>
-      <small>Dianthus carthusiana</small>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/silen_nutans.jpg" width="300"><br>
-      <small>Silene nutans</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/centaurea_jacea_small.jpg" width="300"><br>
-      <small>Centaurea jacea</small>
-    </td>
-  </tr>
-</table>
+| ![](../assets/achillea_millefolium.jpg) | ![](../assets/dianthus_carthusiana.jpg) |
+|:----------------:|:-------------------------------------:|
+| ![](../assets/centaurea_jacea_small.jpg) |    ![](../assets/silen_nutans.jpg)    |
+
+> Quelques fleurs le 30 Mai 2025
 
 __Objectif 1 : Régénération__  
 La première étape consiste à restaurer la prairie après quelques années sans entretien.

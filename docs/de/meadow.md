@@ -1,27 +1,11 @@
 Die etwa 400 m² große Wiese auf dem Gelände der Kirche Bruder Klaus ist ein schönes Stück Natur und Biodiversität im Herzen des Quartiers Madretsch. Auch wenn noch einige Wildblumen vorhanden sind (siehe unten), wird sie zunehmend von Gräsern und Sträuchern überwuchert und verliert ihren Charakter als Blumenwiese. Ziel ist es, die Wiese zu regenerieren, sie weiter zu verbessern und eine pflegeleichte Wildblumenwiese zu schaffen, die dem Quartier als Lern- und Lebensraum für Artenvielfalt dient.
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/achillea_millefolium.jpg" width="300"><br>
-      <small>Achillea millefolium</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/dianthus_carthusiana.jpg" width="300"><br>
-      <small>Dianthus carthusiana</small>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img src="/assets/silen_nutans.jpg" width="300"><br>
-      <small>Silene nutans</small>
-    </td>
-    <td style="text-align: center;">
-      <img src="/assets/centaurea_jacea_small.jpg" width="300"><br>
-      <small>Centaurea jacea</small>
-    </td>
-  </tr>
-</table>
+
+| ![](../assets/achillea_millefolium.jpg) | ![](../assets/dianthus_carthusiana.jpg) |
+|:----------------:|:---------------------------------------:|
+| ![](../assets/centaurea_jacea_small.jpg) |     ![](../assets/silen_nutans.jpg)     |
+
+> Etwas Blumen 30 Mai 2025
 
 __Ziel 1: Regeneration__  
 Erster Schritt ist die Regeneration der Wiese nach mehreren Jahren ohne Pflege.
